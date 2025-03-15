@@ -12,8 +12,8 @@ This repository contains a Python implementation of the **Cosine Similarity algo
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cosine-similarity.git
-   cd cosine-similarity
+   git clone https://github.com/shaheerAlam1/Cosine-Similarity-Algorithm-with-python.git
+   cd Cosine-Similarity-Algorithm-with-python
    ```
 2. Install dependencies (if not already installed):
    ```bash
